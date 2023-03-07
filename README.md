@@ -1,5 +1,6 @@
 # Data Modeling and Analysis of Power Cables Diagnostic Data
-# (In cooperation with KOOPMANN Energy & Electronics)
+### (In cooperation with KOOPMANN Energy & Electronics)
+
 
 ## Data Modeling | ETL piepline | Data Insertion | Data Analysis & Visualization | Predictive Maintenance
 
