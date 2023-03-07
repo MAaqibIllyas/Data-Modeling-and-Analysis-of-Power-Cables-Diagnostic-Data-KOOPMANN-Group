@@ -1,4 +1,4 @@
-# Data Modeling and Analysis of Power Cables Diagnostic Data
+# Data-Driven Modeling and Analysis of Power Cables Diagnostic Data
 ### (In cooperation with KOOPMANN Energy & Electronics)
 
 
